@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 
+
+/*  jora = Jelenlegi óra
+    kora = Következő óra */
+
 namespace noKeses
 {
     public partial class Form1 : Form
