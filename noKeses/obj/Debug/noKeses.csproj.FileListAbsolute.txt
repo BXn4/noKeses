@@ -1,0 +1,38 @@
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\bin\Debug\noKeses.exe.config
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\bin\Debug\noKeses.exe
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\bin\Debug\noKeses.pdb
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\obj\Debug\noKeses.Form1.resources
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\obj\Debug\noKeses.Properties.Resources.resources
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\obj\Debug\noKeses.csproj.GenerateResource.Cache
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\obj\Debug\noKeses.exe
+C:\Users\Bence\Documents\Visual Studio 2015\Projects\noKeses\noKeses\obj\Debug\noKeses.pdb
+D:\noKeses\noKeses\bin\Debug\noKeses.exe.config
+D:\noKeses\noKeses\bin\Debug\noKeses.exe
+D:\noKeses\noKeses\bin\Debug\noKeses.pdb
+D:\noKeses\noKeses\obj\Debug\noKeses.Form1.resources
+D:\noKeses\noKeses\obj\Debug\noKeses.Properties.Resources.resources
+D:\noKeses\noKeses\obj\Debug\noKeses.csproj.GenerateResource.Cache
+D:\noKeses\noKeses\obj\Debug\noKeses.exe
+D:\noKeses\noKeses\obj\Debug\noKeses.pdb
+D:\noKeses\noKeses\obj\Debug\noKeses.csprojResolveAssemblyReference.cache
+F:\noKeses\noKeses\bin\Debug\noKeses.exe.config
+F:\noKeses\noKeses\bin\Debug\noKeses.exe
+F:\noKeses\noKeses\bin\Debug\noKeses.pdb
+F:\noKeses\noKeses\obj\Debug\noKeses.egyebbpanel.resources
+F:\noKeses\noKeses\obj\Debug\noKeses.Form1.resources
+F:\noKeses\noKeses\obj\Debug\noKeses.Properties.Resources.resources
+F:\noKeses\noKeses\obj\Debug\noKeses.csproj.GenerateResource.Cache
+F:\noKeses\noKeses\obj\Debug\noKeses.exe
+F:\noKeses\noKeses\obj\Debug\noKeses.pdb
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.csproj.AssemblyReference.cache
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.csproj.SuggestedBindingRedirects.cache
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.egyebbpanel.resources
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.Form1.resources
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.Properties.Resources.resources
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.csproj.GenerateResource.cache
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.csproj.CoreCompileInputs.cache
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.pdb
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\bin\Debug\noKeses.exe.config
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\bin\Debug\noKeses.exe
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\bin\Debug\noKeses.pdb
+E:\MENTÉSEK (MINDENT IDE)\Kingston\noKeses\noKeses\obj\Debug\noKeses.exe
